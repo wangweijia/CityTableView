@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9B705CC2-D0CE-4062-9AC7-D883D7EB9486</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CityTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</key>
+		<string>https://github.com/wangweijia/Bottonprompt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CityTableView/CityTableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangweijia/Bottonprompt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GITHUB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
