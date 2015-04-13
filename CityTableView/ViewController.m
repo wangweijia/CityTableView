@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "CityDic.h"
+#import "CitysDBToDictUtils.h"
 
 @interface ViewController ()
 @property (weak, nonatomic) IBOutlet UITextField *cityName;
@@ -24,6 +25,9 @@
 //    NSLog(@"%@",[CityDic allCityByProvince][@"吉林省"][5]);
 //    NSLog(@"%@",[CityDic allCityByWordDic][@""][1]);
 //    NSLog(@"%@",[CityDic allCityPyNemeDic][@"zj"][3]);
+    
+    NSDictionary *dic = [CitysDBToDictUtils cityDictFromDBs];
+    NSLog(@"%@",dic);
 }
 
 - (void)didReceiveMemoryWarning {

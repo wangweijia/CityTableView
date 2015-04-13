@@ -10,22 +10,26 @@
 	<string>CityTableView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>184933084CCA16F138CBD56380A4BC5893D87A9F</key>
+		<string>https://github.com/wangweijia/CityTableView.git</string>
 		<key>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</key>
 		<string>https://github.com/wangweijia/Bottonprompt.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CityTableView/CityTableView.xcodeproj</string>
+	<string>CityTableView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>184933084CCA16F138CBD56380A4BC5893D87A9F</key>
+		<string>../..</string>
 		<key>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/wangweijia/Bottonprompt.git</string>
+	<string>https://github.com/wangweijia/CityTableView.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</string>
+	<string>184933084CCA16F138CBD56380A4BC5893D87A9F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>B46096506ACB9B7AFD71FF588CFB3F782077FCFE</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GITHUB</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>184933084CCA16F138CBD56380A4BC5893D87A9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CityTableView</string>
 		</dict>
 	</array>
 </dict>
